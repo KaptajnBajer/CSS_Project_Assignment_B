@@ -5,7 +5,7 @@ next: data-description
 ---
 
 For more information or any coding related questions see the explainer notebook.
-## [Explainer Notebook](Explainer-Notebook.html)
+## [Explainer Notebook](explainer-notebook.html)
 
 **What does...** \
 ... wine taste like? \
