@@ -1,6 +1,6 @@
 baseURL = "https://kaptajnbajer.github.io/what/"
 title = "Project Title"
-description = "HVAD MED DET HER?!"
+description = "En ædndring i Config?"
 relativeURLs = true
 theme = "theme" 
 [params]
