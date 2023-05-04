@@ -13,14 +13,11 @@ For more information or any coding related questions see the explainer notebook.
 ... the different wine types taste like?
 
 
-These question will be answered through the wine drinkers of Vivino - an online wine market with an App. The object of study will be reviews from Vivino under the assumption that the users of Vivino accurately describe wine tastes. 
+These question will be answered through the wine drinkers of Vivino - an online wine market with an App. The object of study will be reviews from Vivino under the assumption that the users of Vivino accurately describe wine tastes. The three questions will be answered by partitioning the reviews into three different categories by _same wines reviewed_,_equal average rating_, and _same prefered type_. By doing so, we can analyse these networks to gain a deeper insight into Vivino's users patterns and behaviours. Finally, to answer wine preferences we will analyse the reviews and which words are used most frequently.
 
 Vivinos API was used to first gather the wines currently on sale on their website (presumably). Next, the individual wine ID's were used to gather the reviews for the individual wines for a total of 5
 
 
-Donec posuere justo at risus [efficitur convallis](#). Donec enim nibh, 
-
-Det er godt nok spændende
 
 ## Math formula
 
