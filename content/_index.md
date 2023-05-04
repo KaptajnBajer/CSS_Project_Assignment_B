@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: Motivation and Data Gathering
 layout: single
 next: data-description
 ---
