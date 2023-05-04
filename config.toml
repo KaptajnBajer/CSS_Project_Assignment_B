@@ -1,13 +1,13 @@
 baseURL = "https://kaptajnbajer.github.io/what/"
 title = "Project Title"
-description = "This is a project description"
+description = "HVAD MED DET HER?!"
 relativeURLs = true
 theme = "theme" 
 [params]
-    authors = ["Henrik Nielsen", "Inga Jensen", "Mikkel Andersen"]
+    authors = ["Virker den her del?"]
     notebook = "/explainer-notebook.html"
     data = "https://drive.google.com"
-    github = "https://github.com/kaptajnbajer/what"
+    github = "https://github.com/peterampazzo/project-website-template"
     [[params.nav]]
         label = "Data"
         link = "/data-description"
