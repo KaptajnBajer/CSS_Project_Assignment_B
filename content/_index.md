@@ -6,8 +6,7 @@ next: data-description
 
 Donec posuere justo at risus [efficitur convallis](#). Donec enim nibh, 
 
-VIRKER DET EVENTUELT NU!?!??!?!
-KSAL JEG VIRKELIG LAVE NE ÆASDJU
+Det er godt nok spændende
 
 ## Math formula
 
