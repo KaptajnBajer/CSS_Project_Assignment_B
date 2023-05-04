@@ -1,10 +1,10 @@
 baseURL = "https://kaptajnbajer.github.io/what/"
-title = "Project Title"
-description = "En ædndring i Config?"
+title = "With Subtle Notes of Dry Summer Rain"
+description = "A study of wine preferences"
 relativeURLs = true
 theme = "theme" 
 [params]
-    authors = ["Virker den her del?"]
+    authors = ["Kasper Brun"]
     notebook = "/explainer-notebook.html"
     data = "https://drive.google.com"
     github = "https://github.com/peterampazzo/project-website-template"
