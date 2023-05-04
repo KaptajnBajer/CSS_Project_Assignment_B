@@ -14,6 +14,6 @@ Sampling.
 1. Lorem ipsum dolor sit amet
 
 .
-
+![](/images/cheesecake.jpg)
 <img src="/images/cheesecake.jpg" width="200" />
 
