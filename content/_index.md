@@ -4,10 +4,11 @@ layout: single
 next: data-description
 ---
 
-**What does...**
-... wine taste like?
-... good wine taste like?
+**What does...** \
+... wine taste like? \
+... good wine taste like? \
 ... the different wine types taste like?
+
 
 These question will be answered through the wine drinkers of Vivino - an online wine market with an App. The object of study will be reviews from Vivino under the assumption that the users of Vivino accurately describe wine tastes. 
 
