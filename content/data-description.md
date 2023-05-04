@@ -12,7 +12,7 @@ Contains emojies that hold little informative value out of context. Furthermore,
 
 ## Sampling
 
-Unfortunately, there appears to be a thing such as too much data.
+Unfortunately, there appears to be a thing such as too much data. Processing milions of reviews actually makes my computer run out of local memory. The solution is to consider only a portion (or _sample_) of the data. Different approaches are possible - _do we want to know what wine tastes like?_ or 
 
 ![](/images/cheesecake.jpg)
 <img src="/images/cheesecake.jpg" width="200" />
