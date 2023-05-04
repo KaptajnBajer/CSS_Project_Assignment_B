@@ -4,6 +4,16 @@ layout: single
 next: data-description
 ---
 
+**What does...**
+... wine taste like?
+... good wine taste like?
+... the different wine types taste like?
+
+These question will be answered through the wine drinkers of Vivino - an online wine market with an App. The object of study will be reviews from Vivino under the assumption that the users of Vivino accurately describe wine tastes. 
+
+Vivinos API was used to first gather the wines currently on sale on their website (presumably). Next, the individual wine ID's were used to gather the reviews for the individual wines for a total of 5
+
+
 Donec posuere justo at risus [efficitur convallis](#). Donec enim nibh, 
 
 Det er godt nok spændende
