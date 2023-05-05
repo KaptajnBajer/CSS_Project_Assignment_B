@@ -12,9 +12,15 @@ Contains emojies that hold little informative value out of context. The reviews 
 
 'pale pink slt sweet strawberry raspberry faint english cucumber fizzy med acidity med finish pinot noir tech notes available abv msrp wine tasting local wine shop second wine brought wineglass serve stemless generic'
 
+Some basic statistics of the gathered data:
+
+<img src="/images/Stats2.png" width="500" />
+
+
+
 ## Sampling
 
-Unfortunately, there appears to be a thing such as too much data. Processing milions of reviews actually makes my computer run out of local memory. The solution is to consider only a portion (or _sample_) of the data. Different approaches are possible - _do we want to know what wine tastes like?_ or 
+Unfortunately, there appears to be a thing such as too much data. Processing milions of reviews actually makes my computer run out of local memory. The solution is to consider only a portion (or _sample_) of the data. Different approaches are possible, but to most accurately reflect user interactions I will sample 1200 user IDs at random.
 
 ![](/images/cheesecake.jpg)
 <img src="/images/cheesecake.jpg" width="200" />
