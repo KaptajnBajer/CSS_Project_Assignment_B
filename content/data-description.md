@@ -14,7 +14,7 @@ It contains emojies that hold little informative value out of context. The revie
 
 Some basic statistics of the gathered data:
 
-<img src="/images/Stats2.png" width="1200" />
+<img src="/images/Stats2.png" width="100" />
 
 
 ![](/images/Stats2.png)
