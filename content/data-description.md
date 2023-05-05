@@ -24,7 +24,8 @@ Wine reviews (and presumably sales aswell) are seen to vary wildly from year to 
 # Sampling
 
 Unfortunately, there appears to be a thing such as too much data. Processing milions of reviews actually makes my computer run out of local memory. The solution is to consider only a portion (or _sample_) of the data. Different approaches are possible, but to most accurately reflect user interactions I will sample 1200 user IDs at random. 
+![](/images/Stats2.png)
 
-![](/images/cheesecake.jpg)
+![](/images/dtu-logo.jpg)
 <img src="/images/cheesecake.jpg" width="200" />
 
