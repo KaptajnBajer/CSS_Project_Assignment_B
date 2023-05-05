@@ -16,7 +16,7 @@ Some basic statistics of the gathered data:
 
 <img src="/images/Stats2.png" width="500" />
 
-
+Wine reviews (and presumably sales aswell) are seen to vary wildly from year to year with rosé wine being the least popular kind. The users of Vivino does not seem to utilise the full range of the rating scale with a generous average rating of 4. Additionally, more than 50% of Vivino's users have only reviewed a single wine. 
 
 ## Sampling
 
