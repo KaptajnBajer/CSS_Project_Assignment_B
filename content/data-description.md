@@ -14,14 +14,16 @@ It contains emojies that hold little informative value out of context. The revie
 
 Some basic statistics of the gathered data:
 
-<img src="/images/Stats2.png" width="800" />
+<img src="/images/Stats2.png" width="1200" />
+
+
 ![](/images/Stats2.png)
 
 Wine reviews (and presumably sales aswell) are seen to vary wildly from year to year with rosé wine being the least popular kind. The users of Vivino does not seem to utilise the full range of the rating scale with a generous average rating of 4. Additionally, more than 50% of Vivino's users have only reviewed a single wine. 
 
-## Sampling
+# Sampling
 
-Unfortunately, there appears to be a thing such as too much data. Processing milions of reviews actually makes my computer run out of local memory. The solution is to consider only a portion (or _sample_) of the data. Different approaches are possible, but to most accurately reflect user interactions I will sample 1200 user IDs at random.
+Unfortunately, there appears to be a thing such as too much data. Processing milions of reviews actually makes my computer run out of local memory. The solution is to consider only a portion (or _sample_) of the data. Different approaches are possible, but to most accurately reflect user interactions I will sample 1200 user IDs at random. 
 
 ![](/images/cheesecake.jpg)
 <img src="/images/cheesecake.jpg" width="200" />
