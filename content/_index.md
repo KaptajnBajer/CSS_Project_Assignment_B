@@ -13,8 +13,8 @@ The analysis will revolve around three questions:
 
 **What does...** \
 ... wine taste like? \
+... the different wine types taste like? \
 ... good wine taste like? \
-... the different wine types taste like?
 
 The three questions will be answered by partitioning the reviews into three different communities by _same wines reviewed_,_equal average rating_, and _same prefered type_. By doing so, we can analyse these networks to gain a deeper insight into Vivino's users patterns and behaviours. Finally, to answer wine preferences we will analyse the reviews and which words are used most frequently. A tiny remark before beginnign: The users of Vivino may not be representative of the general population, and to what extent these results can be generalised to the general population is unknown.
 

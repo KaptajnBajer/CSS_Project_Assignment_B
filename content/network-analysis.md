@@ -1,7 +1,7 @@
 ---
 title: A Brief Introduction
 prev: data-description
-next: TASTE
+next: taste
 ---
 
 Network distribution?
