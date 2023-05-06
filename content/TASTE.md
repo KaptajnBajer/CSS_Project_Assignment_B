@@ -1,7 +1,7 @@
 ---
 title: What does Wine taste like?
 prev: network-analysis
-next: TYPE
+next: type
 ---
 
 Yes, virker det?
