@@ -39,6 +39,9 @@ First, we gather all the wine IDs (wines) currently purchasable on Vivino (see n
 For more information or any coding related questions see the explainer notebook.
 ## [Explainer Notebook](explainer-notebook.html)
 
+Both full and sampled data sets can be found at:
+[Data in Google Drive](https://drive.google.com/drive/folders/1AVIChxho5jlkVDVasJ2eWtBTVQ9cJAQp?usp=share_link)
+
 ## Math formula
 
 
