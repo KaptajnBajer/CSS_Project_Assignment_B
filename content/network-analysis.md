@@ -1,7 +1,7 @@
 ---
-title: Network analysis
+title: A Brief Introduction
 prev: data-description
-next: text-analysis
+next: TASTE
 ---
 
 Network distribution?
