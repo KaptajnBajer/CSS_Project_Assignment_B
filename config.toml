@@ -9,7 +9,7 @@ theme = "theme"
     data = "https://drive.google.com"
     github = "https://github.com/KaptajnBajer/CSS_Project_Assignment_B"
     [[params.nav]]
-        label = "Data"
+        label = "TEST"
         link = "/data-description"
     [[params.nav]]
         label = "Network"
