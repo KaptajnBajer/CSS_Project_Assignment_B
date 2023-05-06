@@ -6,8 +6,6 @@ next: data-description
 
 Infamous for its outlandish descriptions of taste profiles there is seemingly nothing wine cannot taste like. Combine this with its prices ranging from the outrageous to the borderline free at the opposite end of the spectrum on top of a dedicated community, and you have one fascinating world. Here, we will take a closer look at the world of wine through the users of Vivino the online wine market. Using tools from _social network analysis_ we will delve into the user behaviours, and by text analysis discover what wine tastes like to to the Vivino user - and hopefully to an extent also in general. 
 
-For more information or any coding related questions see the explainer notebook.
-## [Explainer Notebook](explainer-notebook.html)
 
 The analysis will revolve around three questions:
 
@@ -38,6 +36,8 @@ First, we gather all the wine IDs (wines) currently purchasable on Vivino (see n
 - Prefered wine country 
 - Average price and rating for their reviews
 
+For more information or any coding related questions see the explainer notebook.
+## [Explainer Notebook](explainer-notebook.html)
 
 ## Math formula
 
@@ -58,7 +58,3 @@ df = pd.DataFrame()
 | 1 | 4 | 7 |
 | 2 | 5 | 8 |
 | 3 | 6 | 9 |
-
-## [Explainer Notebook](Explainer-Notebook.html)
-
-Aenean non augue vulputate, bibendum ligula ac, euismod arcu. Proin consequat, urna at lobortis sodales, ligula nulla molestie dolor, et interdum nulla arcu eu lacus. Aenean maximus mi vel augue blandit, quis vehicula libero egestas. In mollis nibh in turpis sodales, eget luctus sem pretium. Integer lobortis diam vel nisi laoreet, ut condimentum risus ultrices. Praesent diam risus, imperdiet at lorem in, hendrerit auctor ex.
