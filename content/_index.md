@@ -41,23 +41,3 @@ For more information or any coding related questions see the explainer notebook.
 
 Both full and sampled data sets can be found at:
 [Data in Google Drive](https://drive.google.com/drive/folders/1AVIChxho5jlkVDVasJ2eWtBTVQ9cJAQp?usp=share_link)
-
-## Math formula
-
-
-$$ x^n + y^n = z^n $$
-
-## Code chunk
-
-```
-import pandas as pd
-
-df = pd.DataFrame()
-```
-
-
-| Column 1  | Column 2  |  Column 3 |
-|---|---|---|
-| 1 | 4 | 7 |
-| 2 | 5 | 8 |
-| 3 | 6 | 9 |

@@ -7,4 +7,6 @@ One key takeaway from this would be that wine is both _good_ and _nice_. These a
 
 As for the users of Vivinos behaviours the most notable finding is the degree distribution and amount of reviews. Far most users have few reviews with a little group of hyperactive users. Even if you only have one review you are still likely to have an interaction in these networks, which begs the question of if people bought the wine because of the review.
 
-A final remark is that this project has made many mistakes in its making. Everything from basic assumption to methods could have been improved, and most jarringly it seems a far-fetch to consider and treat this a social network. Two users do not have an actual social interactions merely by 
+A final remark is that this project has made many mistakes in its making. Everything from basic assumption to methods could have been improved, and most jarringly it seems a far-fetch to consider and treat this a social network. Two users do not have an actual social interactions merely by reviewing the same wine.
+
+Further reflection of issues can be found at the bottom of the notebook.

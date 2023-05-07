@@ -12,6 +12,6 @@ theme = "theme"
         label = "Data"
         link = "/data-description"
     [[params.nav]]
-        label = "Network"
+        label = "A brief intro"
         link = "/network-analysis"
 
