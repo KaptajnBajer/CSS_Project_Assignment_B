@@ -1,5 +1,5 @@
 ---
-title: A Brief Introduction
+title: What does wine taste like?
 prev: network-analysis
 next: type
 ---
