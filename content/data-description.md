@@ -23,5 +23,5 @@ Unfortunately, there appears to be a thing such as too much data. Processing mil
 
 ![](/images/STATS_ENDELIG_SAMPLE.png)
 
-Over all it looks identical. Only bigger issues is the lack of users of the highest review count. They really are just that rare even with 6000 samples. The 6 000 sampled users have made 16 187 reviews of 2 808 wines.
+Overall it looks identical. Only concerning issue is the lack of users of the highest review count where highest amount reviews has shrunk from 400 to 150. They really are just that rare even with 6000 samples. The 6 000 sampled users have made 16 187 reviews of 2 808 wines.
 
