@@ -4,6 +4,4 @@ prev: network-analysis
 next: type
 ---
 
-Network distribution?
-Hvis de har høje ratings, har de så også de samme ord?
-    Enkelte ord burde vel stå ud?
+Examining the general taste of wine we create a network where interactions are simply defined by if users have reviewed the same wine.
