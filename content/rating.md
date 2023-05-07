@@ -9,7 +9,9 @@ Under the questionable assumption that the user's average rating reflect that th
 
 Two things are interesting: The many users that have are not connected where it would seem the greens are slightly overrepresented which could be interpretated in many ways. One very cautious guess could be that these have few reviews and only review the truly good wines.
 
-Absolutely nothing of interesting regarding 
+Absolutely nothing of interest happens for user statistics. Amount of degrees also reduces in this network.
+
+
 
 ![](/images/rating_1.png)
  
