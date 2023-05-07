@@ -14,9 +14,7 @@ Infact, this network is so highly interconnected that if you were to pick a user
 
 With regards to user statistics it is also random as to how the network interacts. However, Vivino's users are more likely to associate with others who have a similar prefered taste.
 
-A general consensus seems to be that wine is good and nice by being dry. The taste is often described by fruity and more specifically it is plubs, cherries, and apples. Also, the mention of oak is presumably that taste of oak is distinguishable from the storage method.
-
-
+A general consensus seems to be that wine is good and nice by being dry. The taste is often described by fruity and more specifically it is plubs, cherries, and apples. Also, the mention of oak is presumably that the taste of oak is distinguishable and caused by the storage method.
 
 ![](/images/Top1_ALL.png)
  

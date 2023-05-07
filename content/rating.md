@@ -3,7 +3,7 @@ title: What does good wine taste like?
 prev: type
 next: end
 ---
-Under the questionable assumption that the user's average rating reflect that they have reviewed good wines, we will divide it by replacing the previous type with ratings. Vivinos users tend to rate quite high. The 0.25 quantile is at 3.68. If your ratings on average comes to 3.68 25% of Vivinos users would have lower average rating and 75% would have more. These are the bad that drink bad wine. If your average rating is above 4.5 you belong to the top 25% and is an indicator of good wines. Everyone in between these to are average.
+Under the questionable assumption that the user's average rating reflect that they have reviewed good wines, we will divide it by replacing the previous type with ratings. Neighbours are now defined by having rated the same wine and rating the same on average. Vivinos users tend to rate quite high. The 0.25 quantile is at 3.68. If your ratings on average comes to 3.68 25% of Vivinos users would have lower average rating and 75% would have more. These are the bad that drink bad wine. If your average rating is above 4.5 you belong to the top 25% and is an indicator of good wines. Everyone in between these to are average.
 
 ![](/images/User_Network_RATING.png)
 
