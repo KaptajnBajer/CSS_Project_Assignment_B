@@ -10,4 +10,6 @@ Properly analysing the network requires metrics. We will consider _assortativity
 
 By dividing the network into smaller communities, we can now consider each communities preferences. In this manner we can get a broader understanding of Vivino's user and perhaps also a more nuanced picture. Each community has a _corpus_ consisting of _texts_ that are then made of _tokens_. Corpuses, then, are the total amount of reviews where each text is all the reviews made by user. We analyse these through the IF and IDF. TF indicates how many times a token appears in the entire corpus, i.e. if "token write like this" the TF for token is 0.25. IDF is more technical but the general gist of it in this case would be that it treats each individual users reviewers more equal, so it is not nearly as dominated by the users with many reviews as the TF.
 
+Each network will be represented by 5 word clouds for their top community by members. I encourage the reader to explore the different communities and consider what preferences that community might have.
+
 Onwards to the analysis.

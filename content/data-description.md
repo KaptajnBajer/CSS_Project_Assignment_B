@@ -13,13 +13,15 @@ It contains emojies that hold little informative value out of context. The revie
 'pale pink slt sweet strawberry raspberry faint english cucumber fizzy med acidity med finish pinot noir tech notes available abv msrp wine tasting local wine shop second wine brought wineglass serve stemless generic'
 
 Some basic statistics of the gathered data:
-![](/images/Stats2.png)
+![](/images/STATS_ENDELIG_ALL.png)
 
 Wine reviews (and presumably sales aswell) are seen to vary wildly from year to year with rosé wine being the least popular kind. The users of Vivino does not seem to utilise the full range of the rating scale with a generous average rating of 4. Additionally, more than 50% of Vivino's users have only reviewed a single wine. 
 
 # Sampling
 
-Unfortunately, there appears to be a thing such as too much data. Processing milions of reviews actually makes my computer run out of local memory. The solution is to consider only a portion (or _sample_) of the data. Different approaches are possible, but to most accurately reflect user interactions I will sample 1200 user IDs at random. 
+Unfortunately, there appears to be a thing such as too much data. Processing milions of reviews actually makes my computer run out of local memory. The solution is to consider only a portion (or _sample_) of the data. Different approaches are possible, but to most accurately reflect user interactions I will sample 6000 user IDs at random. 
 
+![](/images/STATS_ENDELIG_SAMPLE.png)
 
+Over all it looks identical. Only bigger issues is the lack of users of the highest review count. They really are just that rare even with 6000 samples.
 
