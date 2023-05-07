@@ -12,7 +12,11 @@ Examining the general taste of wine we create a network where interactions are s
 
 
 ![](/images/Top1_ALL.png)
+ 
 ![](/images/Top2_ALL.png)
+ 
 ![](/images/Top3_ALL.png)
+ 
 ![](/images/Top4_ALL.png)
+ 
 ![](/images/Top5_ALL.png)
