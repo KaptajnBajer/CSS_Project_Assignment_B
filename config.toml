@@ -1,6 +1,6 @@
 baseURL = "https://kaptajnbajer.github.io/CSS_Project_Assignment_B/"
 title = "With Subtle Notes of Dry Summer Rain"
-description = "A study of wine preferences"
+description = "A study of wine preference"
 relativeURLs = true
 theme = "theme" 
 [params]
@@ -9,7 +9,7 @@ theme = "theme"
     data = "https://drive.google.com"
     github = "https://github.com/KaptajnBajer/CSS_Project_Assignment_B"
     [[params.nav]]
-        label = "TEST"
+        label = "Data"
         link = "/data-description"
     [[params.nav]]
         label = "Network"
