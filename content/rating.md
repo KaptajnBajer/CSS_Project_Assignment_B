@@ -11,7 +11,7 @@ Two things are interesting: The many users that have are not connected where it 
 
 Absolutely nothing of interest happens for user statistics. Amount of degrees also reduces in this network.
 
-
+I fear that other than poster number 3 (from the top), there is little to go by. Price is apparently a factor by both metrics for the 'perfect' and 'excellent' champagne that obviously has to be furity. I encourage the reader to assess these pictures for themselves and try to estimate the communities average rating.
 
 ![](/images/rating_1.png)
  
